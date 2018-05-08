@@ -1,4 +1,4 @@
-//SINGH 107117004
+//ADITYA 107117004
 #include<iostream.h>
 #include<conio.h>
 void main()
